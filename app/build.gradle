@@ -6,8 +6,8 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.uiuxlogin"
-        minSdk 19
+        applicationId "com.example.UIUXDashboard"
+        minSdk 22
         targetSdk 32
         versionCode 1
         versionName "1.0"
